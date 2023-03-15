@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PMe4+k1rJgT4PwEnPAxn0rRtJsQRlsJrSWfur8E2WVJ+7I51n/iYdCqTLZPMJGyoKZ4nlAKMac1mxMsuSNgK1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msasa.l\\source\\repos\\MFIHub\\Shared\\MFIHub.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msasa.l\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

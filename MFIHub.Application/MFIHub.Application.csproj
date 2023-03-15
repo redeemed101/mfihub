@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="CommonLibraries.Application" Version="1.1.2" />
+		
+	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\MFIHub.Infra.Data\MFIHub.Infra.Data.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Resources\Responses\" />
+	  <Folder Include="Resources\Requests\" />
+	  <Folder Include="Services\" />
+	</ItemGroup>
+</Project>

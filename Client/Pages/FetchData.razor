@@ -1,0 +1,75 @@
+﻿@page "/fetchdata"
+@using MFIHub.Shared
+@using MFIHub.Shared.Models
+@using MFIHub.Shared.Settings
+@using Microsoft.AspNetCore.SignalR.Client
+@inject HttpClient Http
+@inject IMFIHubSettings _settings
+
+<PageTitle>Topics</PageTitle>
+
+<h1>Topics</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+@if (topics == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Topic</th>
+                <th>Summary</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var topic in topics)
+            {
+                <tr>
+                    <td>@topic.CreatedAt.ToShortDateString()</td>
+                    <td>@topic.TopicName</td>
+                    <td>@topic.Description</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<Topic>? topics;
+    private HubConnection? _reportDataHubConnection;
+    private async Task StartHubConnection()
+    {
+        var apiAddress = "https://localhost:7052";
+
+
+        var sensorDataUrl = ($"{apiAddress}/topics");
+        _reportDataHubConnection = new HubConnectionBuilder()
+                        .WithUrl(sensorDataUrl)
+                        .Build();
+
+
+        await _reportDataHubConnection.StartAsync();
+    }
+    private void SetRefreshDataListener()
+        {
+            var methodName = "TransferTopicData";
+
+
+            _reportDataHubConnection?.On<List<Topic>>(methodName, (data) =>
+            {
+                topics = data;
+                StateHasChanged();
+             });
+        }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await StartHubConnection();
+        SetRefreshDataListener();
+    }
+}

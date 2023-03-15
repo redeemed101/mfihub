@@ -1,0 +1,17 @@
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.IoC\bin\Debug\net6.0\MFIHub.Infra.IoC.deps.json
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.IoC\bin\Debug\net6.0\MFIHub.Infra.IoC.dll
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.IoC\bin\Debug\net6.0\MFIHub.Infra.IoC.pdb
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.IoC\bin\Debug\net6.0\MFIHub.Application.dll
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.IoC\bin\Debug\net6.0\MFIHub.Infra.Data.dll
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.IoC\bin\Debug\net6.0\MFIHub.Application.pdb
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.IoC\bin\Debug\net6.0\MFIHub.Infra.Data.pdb
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.IoC\obj\Debug\net6.0\MFIHub.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.IoC\obj\Debug\net6.0\MFIHub.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.IoC\obj\Debug\net6.0\MFIHub.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.IoC\obj\Debug\net6.0\MFIHub.Infra.IoC.AssemblyInfo.cs
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.IoC\obj\Debug\net6.0\MFIHub.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.IoC\obj\Debug\net6.0\MFIHub.Infra.IoC.csproj.CopyComplete
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.IoC\obj\Debug\net6.0\MFIHub.Infra.IoC.dll
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.IoC\obj\Debug\net6.0\refint\MFIHub.Infra.IoC.dll
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.IoC\obj\Debug\net6.0\MFIHub.Infra.IoC.pdb
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.IoC\obj\Debug\net6.0\ref\MFIHub.Infra.IoC.dll

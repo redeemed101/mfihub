@@ -1,0 +1,14 @@
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.Data\bin\Debug\net6.0\MFIHub.Infra.Data.deps.json
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.Data\bin\Debug\net6.0\MFIHub.Infra.Data.runtimeconfig.json
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.Data\bin\Debug\net6.0\MFIHub.Infra.Data.dll
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.Data\bin\Debug\net6.0\MFIHub.Infra.Data.pdb
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.Data\obj\Debug\net6.0\MFIHub.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.Data\obj\Debug\net6.0\MFIHub.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.Data\obj\Debug\net6.0\MFIHub.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.Data\obj\Debug\net6.0\MFIHub.Infra.Data.AssemblyInfo.cs
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.Data\obj\Debug\net6.0\MFIHub.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.Data\obj\Debug\net6.0\MFIHub.Infra.Data.dll
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.Data\obj\Debug\net6.0\refint\MFIHub.Infra.Data.dll
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.Data\obj\Debug\net6.0\MFIHub.Infra.Data.pdb
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.Data\obj\Debug\net6.0\MFIHub.Infra.Data.genruntimeconfig.cache
+C:\Users\msasa.l\source\repos\MFIHub\MFIHub.Infra.Data\obj\Debug\net6.0\ref\MFIHub.Infra.Data.dll

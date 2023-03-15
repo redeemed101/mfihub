@@ -1,0 +1,12 @@
+C:\Users\msasa.l\source\repos\MFIHub\Shared\bin\Debug\net6.0\MFIHub.Shared.deps.json
+C:\Users\msasa.l\source\repos\MFIHub\Shared\bin\Debug\net6.0\MFIHub.Shared.dll
+C:\Users\msasa.l\source\repos\MFIHub\Shared\bin\Debug\net6.0\MFIHub.Shared.pdb
+C:\Users\msasa.l\source\repos\MFIHub\Shared\obj\Debug\net6.0\MFIHub.Shared.csproj.AssemblyReference.cache
+C:\Users\msasa.l\source\repos\MFIHub\Shared\obj\Debug\net6.0\MFIHub.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msasa.l\source\repos\MFIHub\Shared\obj\Debug\net6.0\MFIHub.Shared.AssemblyInfoInputs.cache
+C:\Users\msasa.l\source\repos\MFIHub\Shared\obj\Debug\net6.0\MFIHub.Shared.AssemblyInfo.cs
+C:\Users\msasa.l\source\repos\MFIHub\Shared\obj\Debug\net6.0\MFIHub.Shared.csproj.CoreCompileInputs.cache
+C:\Users\msasa.l\source\repos\MFIHub\Shared\obj\Debug\net6.0\MFIHub.Shared.dll
+C:\Users\msasa.l\source\repos\MFIHub\Shared\obj\Debug\net6.0\refint\MFIHub.Shared.dll
+C:\Users\msasa.l\source\repos\MFIHub\Shared\obj\Debug\net6.0\MFIHub.Shared.pdb
+C:\Users\msasa.l\source\repos\MFIHub\Shared\obj\Debug\net6.0\ref\MFIHub.Shared.dll
