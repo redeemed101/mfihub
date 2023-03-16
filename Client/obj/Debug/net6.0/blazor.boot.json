@@ -206,14 +206,14 @@
       "netstandard.dll": "sha256-klcvWVyHimPfDxg6W1A076EKpCB5ySxjtc7sxJEsGgE=",
       "System.Private.CoreLib.dll": "sha256-Y8kdbfPQ0YoYLGbOgzRmoVsnuMYNlA1hvLvDWFTtzrk=",
       "MFIHub.Shared.dll": "sha256-JOCK7EkQJSk2uJVHS260UnJOauIIm8UdjGklgHzZiEU=",
-      "MFIHub.Client.dll": "sha256-LN+HOO0t3eAg5joNicozqId+oobl1xHsV1Cn87hze2E="
+      "MFIHub.Client.dll": "sha256-AAnl42zWLe7j8\/huSBJtdZ6CSEFE9gttWvyQWLnVIEg="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "MFIHub.Shared.pdb": "sha256-\/Sk1NvUDixTk6vxILRDg3s6oF8Do3TfxYWVZDqu57I0=",
-      "MFIHub.Client.pdb": "sha256-FBNFREL4YpdeTtzf0KnpU56v\/6Y6DVGjANEVdoEosOs="
+      "MFIHub.Client.pdb": "sha256-fawtVYjTWBrjpiWOckj\/TGC1cGprW8ze38NV390g7MI="
     },
     "runtime": {
       "dotnet.6.0.3.7wd1o2gb3z.js": "sha256-pRmcHKZN4T\/YbX9dj6ITT4sNtkJ9w07OLcwl4645nPg=",
